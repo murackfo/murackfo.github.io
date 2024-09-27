@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://murackfo.github.io/sitemap.murackfo.gz
+Sitemap: https://murackfo.github.io/app/sitemap.murackfo.gz
+Sitemap: https://murackfo.github.io/assets/sitemap.murackfo.gz
+Sitemap: https://murackfo.github.io/css/sitemap.murackfo.gz
+Sitemap: https://murackfo.github.io/data/sitemap.murackfo.gz
+Sitemap: https://murackfo.github.io/includes/sitemap.murackfo.gz
+Sitemap: https://murackfo.github.io/item/sitemap.murackfo.gz
+Sitemap: https://murackfo.github.io/src/sitemap.murackfo.gz
